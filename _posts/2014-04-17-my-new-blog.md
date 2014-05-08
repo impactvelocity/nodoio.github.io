@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My New blog"
+title: "Nodo Introduction"
 description: "this is my new blog post with git hub pages..."
 category: 
 tags: []
